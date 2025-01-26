@@ -1,6 +1,6 @@
 # External Authorization Service 
 
-FROM python:3.11
+FROM python:3.11.11-slim
 
 ENV PYTHONUNBUFFERED=1
 
